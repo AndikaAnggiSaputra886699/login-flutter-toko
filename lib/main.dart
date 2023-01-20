@@ -9,6 +9,7 @@ import 'package:toko_gitar_flutter/theme.dart';
 void main() async {
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: "toko Gitar Keren",
       theme: theme(),
       initialRoute: LoginScreen.routeName,
