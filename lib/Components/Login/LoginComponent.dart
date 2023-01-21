@@ -29,7 +29,7 @@ class _LoginComponent extends State<LoginComponent> {
               height: SizeConfig.screenHeight * 0.04,),
             SimpleShadow(
               child: Image.asset(
-               "assets/images/icon.jpg", 
+               "assets/images/foto.jpg", 
             height: 150,
             width: 202,
             ),
